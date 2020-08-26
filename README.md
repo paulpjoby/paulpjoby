@@ -29,15 +29,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Terminal" width="26px" src="/icon/aws.png" />
-<img align="left" alt="Terminal" width="26px" src="/icon/gitlab.png" />
-<img align="left" alt="Terminal" width="26px" src="/icon/java.png" />
-<img align="left" alt="Terminal" width="26px" src="/icon/android.png" />
-<img align="left" alt="Terminal" width="26px" src="/icon/angularjs.png" />
-<img align="left" alt="Terminal" width="26px" src="/icon/kotlin.png" />
-<img align="left" alt="Terminal" width="26px" src="/icon/php.png" />
-<img align="left" alt="Terminal" width="26px" src="/icon/docker.png" />
-<img align="left" alt="Terminal" width="26px" src="/icon/visualstudio.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/aws.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/gitlab.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/java.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/android.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/angularjs.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/kotlin.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/php.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/docker.png" />
+<img align="left" alt="Terminal" width="26px" src="icon/visualstudio.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
