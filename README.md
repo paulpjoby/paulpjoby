@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on a Android App
 - 🌱 I’m currently learning everything possible🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: To learn, explore and accquire new skills
+- 🥅 2025 Goals: Start something of my own
 - ⚡ Fun fact: I love coding, playing games, netflix
 
 ---
